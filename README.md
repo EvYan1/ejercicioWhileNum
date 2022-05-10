@@ -1,0 +1,2 @@
+# ejercicioWhileNum
+Created with CodeSandbox
